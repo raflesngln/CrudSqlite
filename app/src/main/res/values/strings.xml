@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">List User</string>
+    <string name="action_settings">Settings</string>
+    <string name="other_settings">Others</string>
+    <string name="title_activity_buatbiodata">User Baru</string>
+    <string name="title_activity_lihatbiodata">Detail user</string>
+    <string name="title_activity_updatebiodata">Edit User</string>
+</resources>
